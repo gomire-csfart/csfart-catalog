@@ -1,0 +1,4 @@
+.ok-gallery{max-width:860px;margin:0 auto}
+.ok-gallery .guide img{width:100%;height:auto;max-width:860px;display:block}
+.ok-gallery .interleave img{display:block;width:100%;height:auto;object-fit:contain}
+.ok-disabled{display:inline-block;background:#ced7cb;color:#345542;border-radius:8px;padding:12px 18px;font-weight:700}
