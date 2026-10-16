@@ -1,0 +1,40 @@
+:root{--ivory:#f7f5ee;--forest:#234238;--sage:#d9e4d5;--gold:#bea479;--muted:#62766a}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;background:var(--ivory);color:var(--forest);font:16px/1.65 "Malgun Gothic","Apple SD Gothic Neo",sans-serif}
+a{color:inherit}header{background:#fffefa;position:sticky;top:0;z-index:30;border-bottom:1px solid #dce3d9}
+.brandbar{display:flex;gap:12px;align-items:center;justify-content:space-between;max-width:1080px;margin:auto;padding:10px 18px}
+.brand{display:flex;align-items:center;gap:11px;text-decoration:none}
+.brand img{width:43px;height:47px;object-fit:contain}.brand b{font:700 25px Georgia,serif}.brand small{display:block;font-size:11px}
+.private{color:#746244;background:#fff5e4;border:1px solid #decda9;border-radius:99px;padding:4px 9px;font-size:11px}
+nav{display:flex;gap:2px;max-width:1080px;margin:auto;white-space:nowrap;overflow-x:auto;scrollbar-width:thin;padding:0 12px}
+nav a{flex:none;padding:10px 12px;text-decoration:none;font-weight:650;font-size:13px;border-bottom:3px solid transparent}
+nav a[aria-current=page],nav a:hover{background:#e9eee6;border-color:var(--gold)}
+.swipe-hint{display:none;font-size:12px;text-align:right;color:var(--muted);padding:2px 14px 6px}
+main{max-width:1080px;margin:30px auto 65px;padding:0 16px}
+.hero{background:linear-gradient(110deg,#e3ecde,#fffefa);border:1px solid #d6e1d4;border-radius:19px;padding:31px}
+.eyebrow{font:700 12px Georgia,serif;letter-spacing:.15em;color:#64806d}
+h1{margin:6px 0;font-size:clamp(27px,5vw,39px);line-height:1.4}h2{font-size:23px;margin:27px 0 13px}.sub{color:var(--muted)}
+.cat-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:13px;margin:20px 0}
+.cat{display:block;background:#fffefa;border:1px solid #dae2d5;border-radius:15px;overflow:hidden;text-decoration:none}
+.cat-img{display:flex;aspect-ratio:1.15;background:linear-gradient(140deg,#e4ecdf,#f4f4ed);align-items:center;justify-content:center}
+.cat-img img{width:100%;height:100%;object-fit:contain}.placeholder{font-size:12px;color:#718578;text-align:center;padding:8px}
+.cat-label{padding:10px 13px}.cat-label strong{display:block}.cat-label small{display:block;color:var(--muted);font-size:11px}
+.product-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.product-card{display:block;background:#fffefa;border:1px solid #d8e2d4;border-radius:13px;overflow:hidden;text-decoration:none}
+.product-card img{width:100%;aspect-ratio:1;object-fit:contain;background:#edf2ec;display:block}
+.product-card .text{padding:12px}.price{color:#286042;font-size:23px;font-weight:800}.muted{font-size:13px;color:var(--muted)}
+.empty{background:#fffefa;border:1px dashed #c0d0be;border-radius:15px;text-align:center;padding:39px 15px;margin:24px 0}
+.detail{max-width:860px;margin:auto}.detail-heading{padding:20px 0}
+.real-first{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.real-first a{background:#edf2ea;border:1px solid #dce4d9;border-radius:11px;overflow:hidden}
+.real-first img{width:100%;height:100%;object-fit:contain;display:block;max-height:340px}
+figure{margin:0 0 17px}.guide img{width:100%;max-width:860px;height:auto;display:block;border-radius:6px}
+figcaption{font-size:11px;color:var(--muted);text-align:right;padding:4px}
+.interleave{background:#edf4ea;border:1px solid #b5cbb3;padding:12px;border-radius:12px;margin:20px 0}
+.interleave img{width:100%;max-height:800px;object-fit:contain;display:block}
+.interleave figcaption{text-align:left}.photo-label{font-size:12px;font-weight:700;padding:5px}
+.buy{padding:22px;border:1px solid #ccd9ca;background:#e9f0e5;border-radius:15px;margin:25px 0}
+.buy a{display:inline-block;padding:12px 19px;border-radius:9px;background:#234238;color:white;text-decoration:none;font-weight:700}
+footer{text-align:center;font-size:12px;background:#e3ebe0;color:var(--muted);padding:23px}
+@media(max-width:680px){.swipe-hint{display:block}.cat-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.product-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.hero{padding:22px}.brandbar{padding:7px 10px}main{padding:0 10px;margin-top:18px}}
+@media(max-width:365px){.private{font-size:9px}.brand b{font-size:21px}.brand img{width:36px;height:40px}}
