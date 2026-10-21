@@ -46,3 +46,12 @@ figcaption{font-size:11px;color:var(--muted);text-align:right;padding:4px}
 footer{text-align:center;font-size:12px;background:#e3ebe0;color:var(--muted);padding:23px}
 @media(max-width:680px){.swipe-hint{display:block}.cat-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.product-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.hero{padding:22px}.brandbar{padding:7px 10px}main{padding:0 10px;margin-top:18px}}
 @media(max-width:365px){.private{font-size:9px}.brand b{font-size:21px}.brand img{width:36px;height:40px}}
+
+/* 1군 분류 타이틀의 기존 상품 실사 액자 — 메뉴 3안은 그대로 유지 */
+.category-hero-photo{display:flex;align-items:center;justify-content:space-between;gap:24px}
+.category-hero-photo .category-hero-copy{min-width:0}
+.category-hero-photo .category-hero-image{display:block;flex:none;width:148px;height:118px;object-fit:cover;object-position:center 43%;border-radius:16px;border:3px solid #fffefa;box-shadow:0 4px 14px rgba(35,66,56,.20);background:#eef1e9}
+@media(max-width:680px){
+ .category-hero-photo{flex-direction:column;align-items:flex-start;justify-content:flex-start;gap:12px}
+ .category-hero-photo .category-hero-image{width:116px;height:99px;border-radius:13px;box-shadow:0 3px 11px rgba(35,66,56,.17)}
+}
