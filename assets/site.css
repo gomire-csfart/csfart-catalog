@@ -6,9 +6,17 @@ a{color:inherit}header{background:#fffefa;position:sticky;top:0;z-index:30;borde
 .brand{display:flex;align-items:center;gap:11px;text-decoration:none}
 .brand img{width:43px;height:47px;object-fit:contain}.brand b{font:700 25px Georgia,serif}.brand small{display:block;font-size:11px}
 .private{color:#746244;background:#fff5e4;border:1px solid #decda9;border-radius:99px;padding:4px 9px;font-size:11px}
-nav{display:flex;gap:2px;max-width:1080px;margin:auto;white-space:nowrap;overflow-x:auto;scrollbar-width:thin;padding:0 12px}
-nav a{flex:none;padding:10px 12px;text-decoration:none;font-weight:650;font-size:13px;border-bottom:3px solid transparent}
-nav a[aria-current=page],nav a:hover{background:#e9eee6;border-color:var(--gold)}
+/* 메뉴 3안: 세이지 바 + 흰 탭 */
+nav{display:flex;gap:4px;max-width:none;margin:0;padding:7px max(12px,calc((100% - 1080px)/2 + 12px));background:#e9eee6;border-top:1px solid #dce3d9;white-space:nowrap;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+nav::-webkit-scrollbar{display:none}
+nav a{flex:none;padding:7px 14px;border-radius:9px;border-bottom:2px solid transparent;text-decoration:none;color:var(--forest);font-weight:650;font-size:13.5px}
+nav a:hover{background:#fffefa}
+nav a[aria-current=page]{background:#fffefa;border-color:var(--gold);box-shadow:0 1px 3px rgba(35,66,56,.18)}
+nav a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+nav a[href$="seokgok.html"],nav a[href$="supplies.html"]{color:#6f5a35}
+nav a[href$="seokgok.html"]{margin-left:10px}
+.swipe-hint{display:none!important}
+@media(max-width:680px){nav{-webkit-mask-image:linear-gradient(90deg,#000 calc(100% - 36px),transparent);mask-image:linear-gradient(90deg,#000 calc(100% - 36px),transparent)}}
 .swipe-hint{display:none;font-size:12px;text-align:right;color:var(--muted);padding:2px 14px 6px}
 main{max-width:1080px;margin:30px auto 65px;padding:0 16px}
 .hero{background:linear-gradient(110deg,#e3ecde,#fffefa);border:1px solid #d6e1d4;border-radius:19px;padding:31px}
