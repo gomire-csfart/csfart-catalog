@@ -15,7 +15,6 @@ nav a[aria-current=page]{background:#fffefa;border-color:var(--gold);box-shadow:
 nav a:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 nav a[href$="seokgok.html"],nav a[href$="supplies.html"]{color:#6f5a35}
 nav a[href$="seokgok.html"]{margin-left:10px}
-.swipe-hint{display:none!important}
 @media(max-width:680px){nav{-webkit-mask-image:linear-gradient(90deg,#000 calc(100% - 36px),transparent);mask-image:linear-gradient(90deg,#000 calc(100% - 36px),transparent)}}
 .swipe-hint{display:none;font-size:12px;text-align:right;color:var(--muted);padding:2px 14px 6px}
 main{max-width:1080px;margin:30px auto 65px;padding:0 16px}
