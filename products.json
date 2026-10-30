@@ -1,0 +1,654 @@
+{
+  "schema_version": 1,
+  "created_kst": "2026-10-30T09:32:24.376756+09:00",
+  "catalog_commit": "e525f2f6133fd5d21896bc57e6013a2dca5f101d",
+  "count": 43,
+  "products": [
+    {
+      "id": "donghwan-0001",
+      "name": "동환(童丸) 0001 · 풍란 부귀란",
+      "model": "0001",
+      "category": "무지",
+      "traits": [
+        "무지",
+        "두엽"
+      ],
+      "public_code": "",
+      "price": "70,000원",
+      "description": "무지(청) · 극소형 두엽 · 짧고 둥근 잎 CSFART ORCHID COLLECTION 동환(童丸) 0001 · 풍란 부귀란 무지(청) · 극소형 두엽 · 짧고 둥근 잎 70,000원 CSFART동환_0001",
+      "url": "product/donghwan-0001.html",
+      "image": "images/donghwan0001/actual_01.jpg"
+    },
+    {
+      "id": "yosan-1024",
+      "name": "요산(樂山) 1024",
+      "model": "1024",
+      "category": "무지",
+      "traits": [
+        "무지",
+        "두엽",
+        "희엽",
+        "꽃"
+      ],
+      "public_code": "CSFART요산_1024",
+      "price": "75,000원",
+      "description": "작고 두터운 두엽 · 역엽의 독특한 곡선 · 흰 꽃이 핀 실물 짧고 도톰한 두엽, 개성 있는 역엽의 풍란 요산(樂山) 은 실생으로 만들어진 두엽 풍란입니다. 대체로 평엽이지만 희엽과 만곡엽의 성질이 섞이며, 특히 잎의 허리 부분에서 급격하게 아래로 꺾이는 역엽 이 돋보이는 품종입니다. 요산 1024 는 두툼한 잎이 층을 이루면서 독특한 잎의 곡선을 보여 줍니다. 짧은 잎과 단정한 수형이 만드는 아담한 자태가 매력적입니다. 이번에 촬영한 실제 판매 개체에는 맑은 흰 꽃이 피어 있어 초록색 두엽과 꽃",
+      "url": "product/yosan-1024.html",
+      "image": "images/yosan1024/CSFART요산_1024_01.jpg"
+    },
+    {
+      "id": "chwiseon-1023",
+      "name": "취선(翠扇) 1023 · 3촉",
+      "model": "1023",
+      "category": "무지",
+      "traits": [
+        "무지",
+        "두엽"
+      ],
+      "public_code": "",
+      "price": "120,000원",
+      "description": "두꺼운 입엽과 단정한 잎 겹침이 돋보이는 두엽 풍란 CSFART PLAIN LEAF COLLECTION 취선(翠扇) 1023 · 3촉 두꺼운 입엽과 단정한 잎 겹침이 돋보이는 두엽 풍란 120,000원 CSFART취선_1023",
+      "url": "product/chwiseon-1023.html",
+      "image": "images/chwiseon1023/취선_1023_01.jpg"
+    },
+    {
+      "id": "baekokru-1024",
+      "name": "백옥루(白玉樓) 1024",
+      "model": "1024",
+      "category": "복륜",
+      "traits": [
+        "복륜",
+        "백복륜",
+        "호",
+        "희엽"
+      ],
+      "public_code": "CSFART백옥루_1024",
+      "price": "300,000원",
+      "description": "아마미계 백복륜 · 넓은 연황색 잎 둘레 · 입엽성 희엽 맑고 넓은 복륜, 백옥루 백옥루(白玉樓) 는 아마미계 백호에서 변화한 백복륜 풍란입니다. 밝은 복륜으로 둘러진 잎의 우아한 선이 돋보이는 품종입니다. 백옥루 1024 는 잎 가장자리에 백색에서 연한 황색으로 이어지는 밝은 빛이 넓게 펼쳐집니다. 잎 중앙의 녹색과 밝은 백복륜이 선명한 대비를 이루어 풍란의 고운 색감을 살려줍니다. 길게 뽗어 나오는 입엽성 희엽의 부드러운 곡선과 밝은 복륜이 어우러져 아름다운 자태를 보여줍니다. 실사진의 여러 ",
+      "url": "product/baekokru-1024.html",
+      "image": "images/baekokru1024/CSFART백옥루_1024_01.jpg"
+    },
+    {
+      "id": "bugwijeon-1022",
+      "name": "부귀전 1022",
+      "model": "1022",
+      "category": "복륜",
+      "traits": [
+        "복륜"
+      ],
+      "public_code": "",
+      "price": "350,000원",
+      "description": "신엽의 밝은 유령엽 성질 · 성숙하면서 녹이 차오르는 복륜 CSFART MARGIN VARIEGATED COLLECTION 부귀전 1022 신엽의 밝은 유령엽 성질 · 성숙하면서 녹이 차오르는 복륜 350,000원 CSFART부귀전_1022 부귀란 명감의 상단 중앙을 지켜 온 대표 고급 품종, 부귀전의 품격과 복륜을 함께 감상하세요.",
+      "url": "product/bugwijeon-1022.html",
+      "image": "images/bugwijeon1022/부귀전_1022_실사_01.jpg"
+    },
+    {
+      "id": "seosi-1001",
+      "name": "서시 1001 · 풍란 부귀란",
+      "model": "1001",
+      "category": "복륜",
+      "traits": [
+        "복륜",
+        "백복륜"
+      ],
+      "public_code": "",
+      "price": "70,000원",
+      "description": "소엽 풍란 · 백복륜 · 은은한 잎의 선과 무늬 CSFART ORCHID COLLECTION 서시 1001 · 풍란 부귀란 소엽 풍란 · 백복륜 · 은은한 잎의 선과 무늬 70,000원 CSFART서시_1001 · 복륜(판매 사진 및 원본 파일명 기준 분류) · 실제 판매 개체",
+      "url": "product/seosi-1001.html",
+      "image": "images/seosi/actual_01.jpg"
+    },
+    {
+      "id": "seohak-1026",
+      "name": "서학 1026",
+      "model": "1026",
+      "category": "복륜",
+      "traits": [
+        "복륜"
+      ],
+      "public_code": "CSFART서학_1026",
+      "price": "160,000원",
+      "description": "밝은 복륜 · 풍부한 잎의 변화 · 성촉 4촉 복륜과 변화무쌍한 잎의 아름다움 서학(西鶴)은 잎의 폭이 비교적 넓고 축이 굵으며, 파형·산형 붙음매와 굽은 잎·검엽 등 다양한 잎 형태를 보이는 품종입니다. 서출도에서 변화한 품종으로 2006년 일본에서 신등록되었습니다. 서학 1026 은 잎 가장자리에 밝은 복륜 무늬가 이어지며, 굽이치는 잎이 입체적인 자태를 이룹니다. 4촉 이 모여 이루는 풍성한 구성도 감상 포인트입니다. 자연스러운 잎선과 무늬의 어울림을 여러 각도의 사진으로 만나보세요. 상품 ",
+      "url": "product/seohak-1026.html",
+      "image": "images/seohak1026/CSFART서학_1026_01.jpg"
+    },
+    {
+      "id": "okgeum-0001",
+      "name": "옥금(玉錦) 풍란 · 부귀란",
+      "model": "",
+      "category": "복륜",
+      "traits": [
+        "복륜",
+        "백복륜",
+        "희엽"
+      ],
+      "public_code": "",
+      "price": "350,000원",
+      "description": "서출도 계열 · 소형 희엽 · 백복륜 CSFART ORCHID COLLECTION 옥금(玉錦) 풍란 · 부귀란 서출도 계열 · 소형 희엽 · 백복륜 350,000원 CSFART옥금_0001 · 복륜 · 실제 판매 개체",
+      "url": "product/okgeum-0001.html",
+      "image": "images/okgeum/actual_01.jpg"
+    },
+    {
+      "id": "taebaekryeong-1023",
+      "name": "태백령(太白嶺) 1023",
+      "model": "1023",
+      "category": "복륜",
+      "traits": [
+        "복륜",
+        "백복륜",
+        "호",
+        "희엽"
+      ],
+      "public_code": "CSFART태백령_1023",
+      "price": "200,000원",
+      "description": "아마미계 설백 대복륜 · 정갈한 잎의 자태 설백 대복륜이 돋보이는 태백령 태백령(太白嶺) 은 아마미계 실생에서 출현한 선천성 백복륜 풍란으로, 2013년 6월 대한민국풍란연합회 제66호 로 등록된 품종입니다. 짙은 녹색 잎 바탕과 잎 가장자리를 따라 흐르는 설백(雪白)의 대복륜 이 선명한 대비를 이룹니다. 잎은 곧게 솟다가 부드럽게 휘며 정갈한 분위기를 만들어 냅니다. 태백령 1023 은 길게 뻗은 잎에 맑은 백색 복륜이 조화를 이루는 개체입니다. 여러 방향에서 아름다운 잎선과 무늬를  품종 태백",
+      "url": "product/taebaekryeong-1023.html",
+      "image": "images/taebaekryeong1023/CSFART태백령_1023_01.jpg"
+    },
+    {
+      "id": "yungdan-0001",
+      "name": "석곡 융단 0001",
+      "model": "0001",
+      "category": "석곡",
+      "traits": [
+        "중반",
+        "석곡"
+      ],
+      "public_code": "",
+      "price": "20,000원",
+      "description": "태금용 변이 · 삼광중반 석곡 · 미개화 · 검은색 2치 화분 CSFART SEOKGOK COLLECTION 석곡 융단 0001 태금용 변이 · 삼광중반 석곡 · 미개화 · 검은색 2치 화분 20,000원 CSFART융단_0001 융단 0001의 삼광중반 잎무늬와 식재 상태를 사진으로 확인하세요.",
+      "url": "product/yungdan-0001.html",
+      "image": "images/yungdan0001/융단_0001_01.jpg"
+    },
+    {
+      "id": "dongchuldo-0001",
+      "name": "동출도(東出都) 0001 · 풍란",
+      "model": "0001",
+      "category": "입문·기타란",
+      "traits": [
+        "복륜",
+        "백복륜",
+        "희엽"
+      ],
+      "public_code": "",
+      "price": "15,000원",
+      "description": "선천성 백복륜 · 좁고 길게 뻗는 희엽 CSFART ORCHID COLLECTION 동출도(東出都) 0001 · 풍란 선천성 백복륜 · 좁고 길게 뻗는 희엽 15,000원 CSFART동출도_0001 잎 가장자리에 밝은 복륜 무늬가 드러나는 동출도의 모습을 실물사진 기반으로 소개합니다.",
+      "url": "product/dongchuldo-0001.html",
+      "image": "images/dongchuldo0001/CSFART동출도_0001_01.jpg"
+    },
+    {
+      "id": "baegungak-0001",
+      "name": "백운각 0001",
+      "model": "0001",
+      "category": "입문·기타란",
+      "traits": [
+        "복륜"
+      ],
+      "public_code": "CSFART백운각_0001",
+      "price": "30,000원",
+      "description": "부드러운 잎의 곡선 · 분홍빛 뿌리 끝 · 감복륜 형태 백운각의 잎과 뿌리 백운각(白雲閣) 은 감복륜 형태를 거쳐 백색 사자복륜 예로 변하는 풍란으로, 개체와 재배 환경에 따라 무늬 표현이 달라질 수 있습니다. 백운각 0001 은 녹색 잎이 여러 방향으로 펼쳐지며, 사진 속 뿌리 끝에는 은은한 분홍빛이 보입니다. 잎의 곡선과 뿌리의 색감을 사진으로 감상해 보세요. 품종 백운각 0001 카탈로그 분류 입문·기타란 식재 형태 수태 · 검은 플라스틱 망포트",
+      "url": "product/baegungak-0001.html",
+      "image": "images/baegungak0001/CSFART백운각_0001_01.jpg"
+    },
+    {
+      "id": "seochuldo-0001",
+      "name": "서출도 0001",
+      "model": "0001",
+      "category": "입문·기타란",
+      "traits": [],
+      "public_code": "",
+      "price": "",
+      "description": "",
+      "url": "product/seochuldo-0001.html",
+      "image": "images/seochuldo0001/actual_01.jpg"
+    },
+    {
+      "id": "eoseongbokryun-0001",
+      "name": "어성복륜 0001 · 풍란",
+      "model": "0001",
+      "category": "입문·기타란",
+      "traits": [
+        "복륜"
+      ],
+      "public_code": "",
+      "price": "",
+      "description": "",
+      "url": "product/eoseongbokryun-0001.html",
+      "image": "images/eoseongbokryun0001/어성복륜_CSFART어성복륜0001_01.jpg"
+    },
+    {
+      "id": "odong-0001",
+      "name": "오동 0001",
+      "model": "0001",
+      "category": "입문·기타란",
+      "traits": [],
+      "public_code": "",
+      "price": "10,000원",
+      "description": "오모자환의 단엽 개체로, 잎 표면에 나타나는 라사지와 작고 앙증맞은 수형을 감상하는 풍란입니다. 단엽 확대 짧은 잎의 생김새 01 오모자환의 단엽 작은 잎이 촘촘하게 모여 주는 균형미를 감상해 보세요. 라사지 확대 잎 표면의 섬세한 결 02 잎을 바라보는 재미 빛에 따라 드러나는 표면의 미세한 표정을 관찰할 수 있습니다.",
+      "url": "product/odong-0001.html",
+      "image": "images/odong0001/odong_0001_01.jpg"
+    },
+    {
+      "id": "pungmyeongjeon-0001",
+      "name": "풍명전 0001",
+      "model": "0001",
+      "category": "입문·기타란",
+      "traits": [],
+      "public_code": "",
+      "price": "",
+      "description": "",
+      "url": "product/pungmyeongjeon-0001.html",
+      "image": "images/pungmyeongjeon0001/pungmyeongjeon_0001_01.jpg"
+    },
+    {
+      "id": "haeokbo-0001",
+      "name": "해옥보 0001",
+      "model": "0001",
+      "category": "입문·기타란",
+      "traits": [
+        "두엽",
+        "꽃"
+      ],
+      "public_code": "",
+      "price": "",
+      "description": "오동통한 환엽의 두엽성 잎, 천소피기 백화와 니축·니근이 어우러진 풍란입니다. 잎 부분 확대 실사진의 둥근 엽형 01 두엽성 환엽 작은 풍란의 균형 잡힌 잎이 감상의 중심이 됩니다. 백화 확대 천소피기 백화 02 맑은 백화 흰 꽃이 피었을 때의 단아한 표정을 만나 보세요. 현재 배송 상태의 개화를 보장하는 의미는 아닙니다.",
+      "url": "product/haeokbo-0001.html",
+      "image": "images/haeokbo0001/haeokbo_0001_02.jpg"
+    },
+    {
+      "id": "hongnokbo-0001",
+      "name": "홍녹보(紅緑宝) 0001",
+      "model": "0001",
+      "category": "입문·기타란",
+      "traits": [],
+      "public_code": "",
+      "price": "",
+      "description": "",
+      "url": "product/hongnokbo-0001.html",
+      "image": "images/hongnokbo0001/hongnokbo_0001_photo_01.jpg"
+    },
+    {
+      "id": "heukjinju-0001",
+      "name": "흑진주 0001 · 풍란",
+      "model": "0001",
+      "category": "입문·기타란",
+      "traits": [],
+      "public_code": "",
+      "price": "",
+      "description": "",
+      "url": "product/heukjinju-0001.html",
+      "image": "images/heukjinju0001/CSFART흑진주_0001_PHOTO_01.jpg"
+    },
+    {
+      "id": "heukakmuk-1025",
+      "name": "흑악묵 1025",
+      "model": "1025",
+      "category": "특예",
+      "traits": [
+        "묵",
+        "두엽"
+      ],
+      "public_code": "CSFART흑악묵_1025",
+      "price": "110,000원",
+      "description": "반짝이는 두엽에 드러나는 묵예 · 풍란 특예 잎 위에서 펼쳐진 먹빛, 흑악묵 흑악묵 1025 는 짙은 녹색의 두터운 두엽 위로 점상·선상 묵예가 어우러진 풍란입니다. 잎 표면에 먹빛이 터지듯 펼쳐져 있어, 깊은 녹색과 특별한 대비를 선사합니다. 육질감 있는 잎이 단정하게 포개지고 이뼈게 휘어지는 잎선에서 안정감이 느껴집니다. 잎에 번져 나가는 짙은 묵빛이 품종의 개성을 더욱 뚜렷하게 합니다. 드러나는 묵예 는 현재 눈앞에 보이는 무늬의 매력뿐 아니라, 앞으로 새로운 잎이 어떤 모습을 보여 품종 흑",
+      "url": "product/heukakmuk-1025.html",
+      "image": "images/heukakmuk1025/CSFART흑악묵_1025_01.jpg"
+    },
+    {
+      "id": "geumgwanggeum-1521",
+      "name": "금광금(金廣錦) 1521",
+      "model": "1521",
+      "category": "호·중반",
+      "traits": [
+        "호·중반",
+        "중반",
+        "호"
+      ],
+      "public_code": "",
+      "price": "150,000원",
+      "description": "",
+      "url": "product/geumgwanggeum-1521.html",
+      "image": "images/geumgwanggeum1521/actual_01.jpg"
+    },
+    {
+      "id": "geumdu-6121",
+      "name": "금두(金兜) 6121 · 풍란 부귀란",
+      "model": "6121",
+      "category": "호·중반",
+      "traits": [
+        "호·중반",
+        "중반",
+        "호"
+      ],
+      "public_code": "",
+      "price": "60,000원",
+      "description": "호·중반 계열 · 후천성 황호 · 반직선형 중형 · 황금색 줄무늬 CSFART ORCHID COLLECTION 금두(金兜) 6121 · 풍란 부귀란 호·중반 계열 · 후천성 황호 · 반직선형 중형 · 황금색 줄무늬 60,000원 품목코드 CSFART금두_6121 · 실제 판매 개체 사진 기반 · 사진 속 가격 표기 없음",
+      "url": "product/geumdu-6121.html",
+      "image": "images/geumdu6121/actual_01.jpg"
+    },
+    {
+      "id": "geumjik-4501",
+      "name": "금직 4501 · 풍란 부귀란",
+      "model": "4501",
+      "category": "호·중반",
+      "traits": [
+        "호·중반",
+        "중반",
+        "호"
+      ],
+      "public_code": "",
+      "price": "450,000원",
+      "description": "호·중반 · 황색과 짙은 녹색이 어우러지는 잎무늬 CSFART ORCHID COLLECTION 금직 4501 · 풍란 부귀란 호·중반 · 황색과 짙은 녹색이 어우러지는 잎무늬 450,000원 CSFART4501 금직 4501의 실물사진과 상세 설명을 살펴보세요. 잎의 황색과 짙은 녹색 무늬가 돋보입니다.",
+      "url": "product/geumjik-4501.html",
+      "image": "images/geumjik4501/금직_CSFART4501_01.jpg"
+    },
+    {
+      "id": "daejanggeum-1023",
+      "name": "대장금(大壯錦) 1023",
+      "model": "1023",
+      "category": "호·중반",
+      "traits": [
+        "호·중반",
+        "중반",
+        "호",
+        "두엽"
+      ],
+      "public_code": "CSFART대장금_1023",
+      "price": "130,000원",
+      "description": "선명한 황색 산반호와 짧고 두꺼운 두엽의 조화 · 2촉 2013년 6월 등록된 두엽 산반호 풍란 대장금(大壯錦) 은 아마미계 실생에서 나온 선천성 산반호 품종입니다. 짧고 도톰한 두엽에 밝은 황색 무늬가 어우러져 매력적인 자태를 이룹니다. 대장금 1023 은 두 촉으로 구성되었으며, 새잎과 잎맥을 따라 번지는 황색 산반호가 시선을 사로잡습니다. 짧고 단단한 잎의 형태와 선명한 무늬가 만나 소장하는 즐거움을 더하는 풍란입니다. 품종 대장금(大壯錦) · 2013년 6월 등록 감상 포인트 두엽 · 선천",
+      "url": "product/daejanggeum-1023.html",
+      "image": "images/daejanggeum1023/CSFART대장금_1023_01.jpg"
+    },
+    {
+      "id": "mussanggum-1024",
+      "name": "무쌍금 1024",
+      "model": "1024",
+      "category": "호·중반",
+      "traits": [
+        "호·중반",
+        "중반",
+        "호",
+        "두엽"
+      ],
+      "public_code": "CSFART무쌍금_1024",
+      "price": "200,000원",
+      "description": "두터운 환엽형 두엽 · 황색 무늬 · 라사지 · 파형 붙음매 황금빛 무늬가 돋보이는 무쌍금 무쌍금 은 홍공작과 정지송을 교배해 탄생한 무쌍환 계통의 무늬종입니다. 두터운 환엽형 두엽과 화려한 노란빛 잎의 대비가 매력입니다. 무쌍금 1024 는 상단 잎에 넓게 퍼진 밝은 황색 발색과 아래 잎에서 어우러지는 녹색 무늬가 인상적입니다. 짧고 두툰한 잎이 층층이 배열되어 작은 자태에 존재감을 더합니다. 잎 표면에 은은한 미세한 라사지 의 결이 느껴지며, 잎과 축이 만나는 부분은 부드러운 파형 붙음매 의 ",
+      "url": "product/mussanggum-1024.html",
+      "image": "images/mussanggum1024/CSFART무쌍금_1024_01.jpg"
+    },
+    {
+      "id": "baekgyeol-0001",
+      "name": "백결 단엽(白潔)",
+      "model": "",
+      "category": "호·중반",
+      "traits": [
+        "호·중반",
+        "중반",
+        "호"
+      ],
+      "public_code": "",
+      "price": "130,000원",
+      "description": "CSFART백결_0001 · 실물 사진 기준 · 분류 확인 필요 CSFART · ACTUAL ORCHID PHOTO 백결 단엽(白潔) CSFART백결_0001 · 실물 사진 기준 · 분류 확인 필요 130,000원",
+      "url": "product/baekgyeol-0001.html",
+      "image": "images/real_01.jpg"
+    },
+    {
+      "id": "baekrok-1023",
+      "name": "백록(白鹿) 1023",
+      "model": "1023",
+      "category": "호·중반",
+      "traits": [
+        "호·중반",
+        "중반",
+        "호"
+      ],
+      "public_code": "CSFART백록_1023",
+      "price": "150,000원",
+      "description": "맑은 설백호 무늬가 돋보이는 호(縞) 풍란 · 성촉 3촉 + 신아 2촉 2013년 6월 등록된 설백호 풍란 백록(白鹿) 은 2013년 6월 등록된 풍란 품종으로, 잎을 따라 흐르는 설백호(雪白縞) 가 주요 감상 포인트입니다. 제주 풍란에서 이어진 계통의 품종으로, 한라산 백록담에서 이름을 따왔습니다. 선천성 백색 호무늬는 시기에 따라 연분홍빛으로 물들기도 하는 특징이 있습니다. 백록 1023 은 성촉 3촉과 신아 2촉으로 이루어져 있습니다. 잎에 선명하게 이어지는 설백호와 균형 잡힌 자태를 감상해",
+      "url": "product/baekrok-1023.html",
+      "image": "images/baekrok1023/CSFART백록_1023_01.jpg"
+    },
+    {
+      "id": "bogeum-3811",
+      "name": "보금(寶錦) 3811 · 풍란 부귀란",
+      "model": "3811",
+      "category": "호·중반",
+      "traits": [
+        "호·중반",
+        "중반",
+        "호",
+        "희엽"
+      ],
+      "public_code": "",
+      "price": "80,000원",
+      "description": "호·중반 · 백황호 · 유려한 희엽 · 보금 3811 CSFART ORCHID COLLECTION 보금(寶錦) 3811 · 풍란 부귀란 호·중반 · 백황호 · 유려한 희엽 · 보금 3811 80,000원 CSFART보금_3811 · 백황호 · 희엽",
+      "url": "product/bogeum-3811.html",
+      "image": "images/bogeum3811/actual_01.jpg"
+    },
+    {
+      "id": "eumpung-0001",
+      "name": "음풍(吟風) 0001 · 풍란",
+      "model": "0001",
+      "category": "호·중반",
+      "traits": [
+        "호·중반",
+        "중반",
+        "호",
+        "묵"
+      ],
+      "public_code": "",
+      "price": "75,000원",
+      "description": "아마미계 · 호·중반 · 묵(墨)과 황호(黃縞)의 이예품 CSFART ORCHID COLLECTION 음풍(吟風) 0001 · 풍란 아마미계 · 호·중반 · 묵(墨)과 황호(黃縞)의 이예품 75,000원 CSFART음풍_0001 아마미계 풍란의 자생종 선별품으로, 묵(墨)을 흘리듯 두르면서 노랑 줄무늬(黃縞)가 어우러지는 이예품입니다. 묵은 잎 기부의 축색이 아니라 잎 중간에서 흐르듯 보이는 먹빛 선을 살펴보세요. 묵과 황호의 조화를 사진과 상세 안내로 소개합니다.",
+      "url": "product/eumpung-0001.html",
+      "image": "images/eumpung0001/음풍_0001_09.jpg"
+    },
+    {
+      "id": "jikhui-1001",
+      "name": "직희(織姬) 1001",
+      "model": "1001",
+      "category": "호·중반",
+      "traits": [
+        "호·중반",
+        "중반",
+        "호",
+        "희엽"
+      ],
+      "public_code": "",
+      "price": "130,000원",
+      "description": "부드러운 희엽과 백·황색 산반호가 어우러지는 풍란 CSFART STRIPE COLLECTION 직희(織姬) 1001 부드러운 희엽과 백·황색 산반호가 어우러지는 풍란 130,000원 CSFART직희_1001",
+      "url": "product/jikhui-1001.html",
+      "image": "images/jikhui1001/직희_1001_실사_01.jpg"
+    },
+    {
+      "id": "cheonjiyeon-1026",
+      "name": "천지연 1026",
+      "model": "1026",
+      "category": "호·중반",
+      "traits": [
+        "호·중반",
+        "중반",
+        "호"
+      ],
+      "public_code": "CSFART천지연_1026",
+      "price": "700,000원",
+      "description": "유백색 호무늬 · 두터운 잎 · 성장하는 신아 · 등록 제120호 선명한 호무늬, 겨울에는 붉은빛을 품는 천지연 천지연은 짙은 녹색 잎에 유백색 호무늬가 어우러지는 품종입니다. 짧고 두터운 잎의 자태가 아름답습니다. 겨울철 어린잎에는 홍외(안토시안)와 호무늬가 어우러져 잎 전체에 붉은빛이 물드는 품종 특징 이 알려져 있습니다. 이는 계절에 따른 품종의 감상 특성으로, 판매 개체의 현재 사진에 나타나는 색과 구분됩니다. 천지연 1026 은 밝은 황백색 호무늬가 돋보이며, 성촉 2촉에 신아 1개 가 ",
+      "url": "product/cheonjiyeon-1026.html",
+      "image": "images/cheonjiyeon1026/CSFART천지연_1026_01.jpg"
+    },
+    {
+      "id": "chwiwolho-1209",
+      "name": "취월호(翠月湖) 1209",
+      "model": "1209",
+      "category": "호·중반",
+      "traits": [
+        "호·중반",
+        "중반",
+        "호",
+        "두엽"
+      ],
+      "public_code": "CSFART취월호_1209",
+      "price": "100,000원",
+      "description": "두껍고 짧은 두엽 · 밝은 황색 산반호 · 콤팩트한 수형 녹색 두엽에 흐르는 황금빛 산반호 취월호(翠月湖) 는 짧고 도톰한 두엽과 황색의 산반호가 어우러진 풍란 품종입니다. 짙은 녹색 바탕 위에 밝은 황색 무늬가 흩어지듯 흐르는 모습이 이 품종의 대표적인 특징입니다. 취월호 1209 는 잎 중앙과 가장자리 쪽으로 나타난 밝은 황색의 흐름이 선명한 개체입니다. 짧고 탄탄한 잎에 광택이 있고, 녹색과 황색이 만드는 대비가 아름답습니다. 굵은 축 주변으로 서로 다른 방향의 잎이 층을 이루어, 작은 수형",
+      "url": "product/chwiwolho-1209.html",
+      "image": "images/chwiwolho1209/CSFART취월호_1209_01.jpg"
+    },
+    {
+      "id": "geumrugak-0002",
+      "name": "금루각(金鏤閣) 0002 · 풍란",
+      "model": "0002",
+      "category": "호반",
+      "traits": [
+        "호반",
+        "호",
+        "루비근"
+      ],
+      "public_code": "",
+      "price": "18,000원",
+      "description": "황금색 전면 호반 · 루비근 · 9cm 갈색 플라스틱 포트 CSFART ORCHID COLLECTION 금루각(金鏤閣) 0002 · 풍란 황금색 전면 호반 · 루비근 · 9cm 갈색 플라스틱 포트 18,000원 CSFART금루각_0002 촬영된 잎의 황금색 무늬와 9cm 포트의 모습을 실물 사진으로 확인하세요.",
+      "url": "product/geumrugak-0002.html",
+      "image": "images/geumrugak0002/CSFART금루각_0002_01.jpg"
+    },
+    {
+      "id": "geumyuhwang-0001",
+      "name": "금유황 0001",
+      "model": "0001",
+      "category": "호반",
+      "traits": [
+        "호반",
+        "호"
+      ],
+      "public_code": "CSFART금유황_0001",
+      "price": "10,000원",
+      "description": "밝은 황색 호반과 부드러운 잎의 흐름 · 풍란 노란 빛과 잎의 조화, 금유황 금유황(金幽晃) 은 두터운 잎에 황색 호반이 감상 포인트인 풍란입니다. 금유황 0001 은 녹색과 황색이 자연스럽게 어우러진 잎이 옆으로 펼쳐져 화사한 인상을 줍니다. 잎의 곡선과 수태에 자리 잡은 모습도 함께 감상해 보세요. 품종 금유황 0001 · 金幽晃 무늬 황색 호반 형태 검은 플라스틱 망포트 · 수태",
+      "url": "product/geumyuhwang-0001.html",
+      "image": "images/geumyuhwang0001/CSFART금유황_0001_01.jpg"
+    },
+    {
+      "id": "seungmunjigwang-0001",
+      "name": "승문지광 0001",
+      "model": "0001",
+      "category": "호반",
+      "traits": [
+        "호반",
+        "호",
+        "루비근"
+      ],
+      "public_code": "CSFART승문지광0001",
+      "price": "10,000원",
+      "description": "완만하게 굽는 잎 · 분홍빛 루비근 · 호반 풍란 잎의 곡선과 루비근이 아름다운 승문지광 승문지광 은 부드럽게 뻗고 굽는 잎의 자태와 분홍빛 루비근 이 감상 포인트인 풍란입니다. 승문지광 0001 은 녹색 잎이 좌우로 펼쳐지며 겹겹이 모이는 모습이 인상적입니다. 뒤쪽의 루비근 근접 사진은 승문지광 품종의 뿌리 특징을 보여줍니다. 품종 승문지광 0001 분류 호반 감상 특징 부드러운 잎의 곡선 · 루비근",
+      "url": "product/seungmunjigwang-0001.html",
+      "image": "images/seungmunjigwang0001/CSFART승문지광0001_01.jpg"
+    },
+    {
+      "id": "cheonjaehoban-1023",
+      "name": "천재호반 1023",
+      "model": "1023",
+      "category": "호반",
+      "traits": [
+        "호반",
+        "호",
+        "두엽",
+        "꽃"
+      ],
+      "public_code": "CSFART천재호반_1023",
+      "price": "180,000원",
+      "description": "짧고 두툼한 두엽에 선명하게 펼쳐진 황금빛 호반 천재의 두엽에 더해진 황금빛 호반 천재호반 은 천재에서 변이하여 호반무늬가 발현된 상품입니다. 매우 작은 두엽이지만 잎살이 두꺼워 입체적인 볼륨감이 돋보입니다. 천재호반 1023 은 여러 잎에 넓게 펼쳐진 황금빛 호반 이 특히 매력적입니다. 맑은 황색 발색과 초록빛 잎 바탕이 선명한 대비를 이루며, 작은 자태에 화려한 인상을 더합니다. 천재 계열은 작은 두엽에 비해 꽃이 잘 붙는 편이며, 하늘피기(天咲)의 매화꽃(梅弁花) 형태가 품종의 꽃 감상 품종",
+      "url": "product/cheonjaehoban-1023.html",
+      "image": "images/cheonjaehoban1023/CSFART천재호반_1023_01.jpg"
+    },
+    {
+      "id": "hwangguijeon-0001",
+      "name": "황귀전 0001",
+      "model": "0001",
+      "category": "호반",
+      "traits": [
+        "호반",
+        "호"
+      ],
+      "public_code": "",
+      "price": "30,000원",
+      "description": "황색 무늬와 단정한 잎선이 어우러진 풍란 CSFART ORCHID COLLECTION 황귀전 0001 황색 무늬와 단정한 잎선이 어우러진 풍란 30,000원 CSFART황귀전_0001 · 호반",
+      "url": "product/hwangguijeon-0001.html",
+      "image": "images/hwangguijeon0001/actual_01.jpg"
+    },
+    {
+      "id": "gyeongmiin-0001",
+      "name": "경미인 0001 · 복색화 소엽 풍란",
+      "model": "0001",
+      "category": "화물",
+      "traits": [],
+      "public_code": "",
+      "price": "20,000원",
+      "description": "가늘게 뻗는 잎의 선과 고운 복색화의 어울림 CSFART ORCHID COLLECTION 경미인 0001 · 복색화 소엽 풍란 가늘게 뻗는 잎의 선과 고운 복색화의 어울림 20,000원 CSFART경미인_0001",
+      "url": "product/gyeongmiin-0001.html",
+      "image": "images/gyeongmiin0001/actual_01.jpg"
+    },
+    {
+      "id": "noesan-0001",
+      "name": "뇌산(雷山) 0001",
+      "model": "0001",
+      "category": "화물",
+      "traits": [],
+      "public_code": "",
+      "price": "",
+      "description": "",
+      "url": "product/noesan-0001.html",
+      "image": "images/noesan0001/noesan_0001_photo_01.jpg"
+    },
+    {
+      "id": "biyeon-0001",
+      "name": "비연 0001",
+      "model": "0001",
+      "category": "화물",
+      "traits": [
+        "적화",
+        "꽃"
+      ],
+      "public_code": "",
+      "price": "할인가 25,000원",
+      "description": "흑자(黑紫)빛 꽃줄기와, 꽃잎 윗부분과 거(距)에 다홍빛을 머금는 적화의 매력이 돋보이는 풍란입니다. 꽃줄기 확대 깊은 흑자색의 표정 01 꽃대를 보는 즐거움 가느다란 꽃줄기의 색이 꽃의 매력을 한층 돋보이게 합니다. 꽃색 확대 화변 윗부분과 거의 다홍빛 02 대륜의 적화 큰 꽃에 다홍빛이 스미며 비연 특유의 화예가 드러납니다.",
+      "url": "product/biyeon-0001.html",
+      "image": "images/biyeon0001/biyeon_0001_01.jpg"
+    },
+    {
+      "id": "hongbaekseol-0001",
+      "name": "홍백설(紅白雪) 0001",
+      "model": "0001",
+      "category": "화물",
+      "traits": [],
+      "public_code": "",
+      "price": "60,000원",
+      "description": "홍백설(紅白雪)은 백색과 홍색의 대비되는 아름다운 색상의 화물입니다.",
+      "url": "product/hongbaekseol-0001.html",
+      "image": "images/hongbaekseol0001/홍백설_0001_01.jpg"
+    },
+    {
+      "id": "hongya-0001",
+      "name": "홍야(紅夜) 0001 · 풍란 색화",
+      "model": "0001",
+      "category": "화물",
+      "traits": [
+        "꽃"
+      ],
+      "public_code": "",
+      "price": "10,000원",
+      "description": "분홍빛이 어우러진 꽃과 가늘고 긴 꽃선 CSFART ORCHID COLLECTION 홍야(紅夜) 0001 · 풍란 색화 분홍빛이 어우러진 꽃과 가늘고 긴 꽃선 10,000원 CSFART홍야_0001",
+      "url": "product/hongya-0001.html",
+      "image": "images/hongya0001/actual_01.jpg"
+    },
+    {
+      "id": "hongpung-0001",
+      "name": "홍풍(紅楓) 0001 · 향기 있는 적화",
+      "model": "0001",
+      "category": "화물",
+      "traits": [
+        "적화",
+        "꽃"
+      ],
+      "public_code": "",
+      "price": "20,000원",
+      "description": "무늬 없는 녹엽과 붉은빛에서 등색으로 변하는 꽃 CSFART ORCHID COLLECTION 홍풍(紅楓) 0001 · 향기 있는 적화 무늬 없는 녹엽과 붉은빛에서 등색으로 변하는 꽃 20,000원 CSFART홍풍_0001",
+      "url": "product/hongpung-0001.html",
+      "image": "images/hongpung0001/actual_01.jpg"
+    }
+  ]
+}

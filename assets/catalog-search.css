@@ -1,0 +1,38 @@
+
+/* CSFART search V1 — preview, harmonized with existing sage navigation. */
+.catalog-preview-label{font:600 12px "Pretendard","Malgun Gothic",sans-serif;background:#fff4d2;color:#705625;padding:5px 16px;text-align:center}
+.sr-only{position:absolute;overflow:hidden;clip:rect(0,0,0,0);height:1px;width:1px;white-space:nowrap}
+.catalog-search-shell{position:relative;display:flex;align-items:center;justify-content:flex-end;max-width:1080px;padding:9px 16px;margin:auto}
+.catalog-search-form{display:flex;gap:8px;width:min(100%,510px)}
+.catalog-search-form input{flex:1;min-width:0;padding:10px 14px;font:500 15px "Pretendard","Malgun Gothic",sans-serif;color:#234238;border:1px solid #b7cbb9;background:white;border-radius:12px}
+.catalog-search-form input:focus{outline:2px solid #bea479;outline-offset:2px}
+.catalog-search-submit{background:#245540;color:white;border:0;border-radius:12px;padding:10px 18px;cursor:pointer;font:700 14px "Pretendard","Malgun Gothic",sans-serif}
+.catalog-search-toggle{display:none;align-items:center;gap:6px;background:#e7eee4;border:1px solid #c8d8c8;color:#234238;padding:9px 11px;border-radius:12px;font-size:13px;font-weight:700}
+.search-results-header{background:linear-gradient(105deg,#e5ede0,#fffefa);border:1px solid #d7e1d2;border-radius:18px;padding:25px;margin-bottom:20px}
+.search-results-header h1{margin:4px 0;font-size:clamp(25px,4vw,36px)}
+.search-help{font-size:13px;color:#537165}
+.search-results-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.search-hit{display:block;background:#fffefa;border:1px solid #d8e2d4;border-radius:13px;overflow:hidden;text-decoration:none;transition:transform .12s ease,border-color .12s ease}
+.search-hit:hover{transform:translateY(-2px);border-color:#bca875}
+.search-hit:focus-visible{outline:3px solid #bea479;outline-offset:2px}
+.search-hit img{display:block;width:100%;aspect-ratio:1;object-fit:contain;background:#edf2ec}
+.search-hit .search-copy{padding:13px;min-height:108px}
+.search-hit strong{font-size:17px;display:block}
+.search-hit .search-meta{display:block;font-size:12px;color:#5e7868}
+.search-hit .search-traits{font-size:12px;color:#708477;margin:6px 0 0}
+.search-empty{background:#fffefa;border:1px dashed #aebda9;border-radius:15px;padding:40px 20px;text-align:center;color:#385b49}
+.search-empty[hidden]{display:none}
+.search-empty strong{font-size:21px}
+.search-empty p{font-size:14px;color:#6b7c70}
+@media(max-width:680px){
+.catalog-search-shell{padding:5px 12px;justify-content:flex-end;flex-wrap:wrap}
+.catalog-search-toggle{display:inline-flex}
+.catalog-search-form{display:none;order:2;flex-basis:100%;max-width:none;margin:8px 0 2px}
+.catalog-search-shell.is-open .catalog-search-form{display:flex}
+.catalog-search-submit{padding:9px 14px}
+.search-results-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.search-hit .search-copy{padding:9px;min-height:100px}
+.search-hit strong{font-size:15px}
+.search-results-header{padding:20px}
+}
+@media(max-width:390px){.search-results-grid{gap:8px}.search-hit strong{font-size:14px}}
