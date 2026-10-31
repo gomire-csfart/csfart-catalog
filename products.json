@@ -2,8 +2,20 @@
   "schema_version": 1,
   "created_kst": "2026-10-30T09:32:24.376756+09:00",
   "catalog_commit": "e525f2f6133fd5d21896bc57e6013a2dca5f101d",
-  "count": 45,
+  "count": 46,
   "products": [
+    {
+      "id": "chwihwajeon-0001",
+      "name": "취화전 0001 · 두엽 희엽 역엽 풍란",
+      "model": "0001",
+      "category": "화물",
+      "traits": ["두엽", "희엽", "역엽", "니축", "니근", "월형", "흰꽃", "녹화"],
+      "public_code": "",
+      "price": "12,000원",
+      "description": "취화전 0001. 정가 15,000원, 할인가 12,000원. 두꺼운 두엽과 굵은 축 기부, 수평으로 퍼진 희엽 끝에서 아래로 꺾이는 역엽, 니축 니근 월형 붙음매. 흰 꽃과 간헐적인 꽃끝 연녹색.",
+      "url": "product/chwihwajeon-0001.html",
+      "image": "images/chwihwajeon0001/r1.jpg"
+    },
     {
       "id": "donghwan-0001",
       "name": "동환(童丸) 0001 · 풍란 부귀란",
