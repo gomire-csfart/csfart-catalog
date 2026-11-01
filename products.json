@@ -2,7 +2,7 @@
   "schema_version": 1,
   "created_kst": "2026-10-30T09:32:24.376756+09:00",
   "catalog_commit": "e525f2f6133fd5d21896bc57e6013a2dca5f101d",
-  "count": 48,
+  "count": 49,
   "products": [
     {
       "id": "hwayeong-0001",
@@ -742,6 +742,24 @@
       "description": "수태망 500원, 수태망완성품 (중) 1,800원·(대) 2,000원. 풍란 뿌리 주변의 공동 구조를 만들기 위한 수태망과 방석수태를 미리 감아 준비를 간편하게 한 수태망완성품. 수태분망 전용봉은 별도 판매.",
       "url": "product/sutaemang-wrapped.html",
       "image": "images/sutaemang/mesh_main.jpg"
+    },
+    {
+      "id": "furan-rod-20cm-10",
+      "name": "풍란교정봉 스테인레스20cm 10개",
+      "model": "",
+      "category": "자재",
+      "traits": [
+        "교정봉",
+        "교정대",
+        "20cm",
+        "스테인레스",
+        "10개"
+      ],
+      "public_code": "",
+      "price": "3,000원",
+      "description": "풍란 잎의 방향과 균형을 가볍게 지지하는 교정봉. 스테인레스 길이 20cm, 굵기 1.8mm, 10개 구성. 네이버 수태망 상품의 교정봉 옵션으로 판매.",
+      "url": "product/furan-rod-20cm-10.html",
+      "image": "images/furan-rod-20cm/actual_01.jpg"
     }
   ]
 }
