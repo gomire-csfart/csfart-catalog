@@ -2,7 +2,7 @@
   "schema_version": 1,
   "created_kst": "2026-10-30T09:32:24.376756+09:00",
   "catalog_commit": "e525f2f6133fd5d21896bc57e6013a2dca5f101d",
-  "count": 49,
+  "count": 50,
   "products": [
     {
       "id": "hwayeong-0001",
@@ -760,6 +760,25 @@
       "description": "풍란 잎의 방향과 균형을 가볍게 지지하는 교정봉. 스테인레스 길이 20cm, 굵기 1.8mm, 10개 구성. 네이버 수태망 상품의 교정봉 옵션으로 판매.",
       "url": "product/furan-rod-20cm-10.html",
       "image": "images/furan-rod-20cm/actual_01.jpg"
+    },
+    {
+      "id": "hongokjihwa-0001",
+      "name": "홍옥지화(紅玉之華) 0001 · 홍화 루비근 풍란",
+      "model": "0001",
+      "category": "화물",
+      "traits": [
+        "홍화",
+        "루비근",
+        "소형",
+        "두꺼운 잎",
+        "니축",
+        "월형"
+      ],
+      "public_code": "CSFART홍옥지화_0001",
+      "price": "",
+      "description": "홍옥지화(紅玉之華) 0001. 소형의 단정한 잎, 홍화와 루비근이 매력인 풍란. 선명한 분홍 뿌리 생장점은 생육 시기에 나타나며 휴면기·환경에 따라 옅거나 보이지 않을 수 있습니다. ",
+      "url": "product/hongokjihwa-0001.html",
+      "image": "images/hongokjihwa0001/홍옥지화_0001_01.jpg"
     }
   ]
 }
