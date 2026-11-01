@@ -2,7 +2,7 @@
   "schema_version": 1,
   "created_kst": "2026-10-30T09:32:24.376756+09:00",
   "catalog_commit": "e525f2f6133fd5d21896bc57e6013a2dca5f101d",
-  "count": 47,
+  "count": 48,
   "products": [
     {
       "id": "hwayeong-0001",
@@ -725,6 +725,23 @@
       "description": "부용 풍란. 두엽과 도화빛 꽃의 이예품. 천소피기와 연꽃 닮은 꽃봉오리. 대한민국풍란연합회 2013년 등록품종.",
       "url": "product/buyong-0001.html",
       "image": "images/buyong0001/detail_01.jpg"
+    },
+    {
+      "id": "sutaemang-wrapped",
+      "name": "수태망(수태망완성품)",
+      "model": "",
+      "category": "자재",
+      "traits": [
+        "공동심기",
+        "분갈이",
+        "수태망",
+        "수태망완성품"
+      ],
+      "public_code": "",
+      "price": "500원부터",
+      "description": "수태망 500원, 수태망완성품 (중) 1,800원·(대) 2,000원. 풍란 뿌리 주변의 공동 구조를 만들기 위한 수태망과 방석수태를 미리 감아 준비를 간편하게 한 수태망완성품. 수태분망 전용봉은 별도 판매.",
+      "url": "product/sutaemang-wrapped.html",
+      "image": "images/sutaemang/mesh_main.jpg"
     }
   ]
 }
