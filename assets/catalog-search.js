@@ -33,7 +33,7 @@ function card(p){
  const im=document.createElement("img");im.loading="lazy";im.decoding="async";im.src=p.image;im.alt=p.name+" 대표 실물사진";
  const box=document.createElement("div");box.className="search-copy";
  const name=document.createElement("strong");name.textContent=p.name;
- const cat=document.createElement("span");cat.className="search-meta";cat.textContent=p.category+(p.price?" · "+p.price:"");
+ const cat=document.createElement("span");cat.className="search-meta";cat.textContent=p.category+(p.availability==="sold_out"?" · 판매완료":(p.price?" · "+p.price:""));
  const tr=document.createElement("p");tr.className="search-traits";tr.textContent=p.traits.slice(0,3).join(" · ");
  box.append(name,cat,tr);a.append(im,box);return a;
 }
