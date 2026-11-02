@@ -2,7 +2,7 @@
   "schema_version": 1,
   "created_kst": "2026-10-30T09:32:24.376756+09:00",
   "catalog_commit": "e525f2f6133fd5d21896bc57e6013a2dca5f101d",
-  "count": 50,
+  "count": 51,
   "products": [
     {
       "id": "hwayeong-0001",
@@ -780,6 +780,25 @@
       "description": "홍옥지화(紅玉之華) 0001. 소형의 단정한 잎, 홍화와 루비근이 매력인 풍란. 선명한 분홍 뿌리 생장점은 생육 시기에 나타나며 휴면기·환경에 따라 옅거나 보이지 않을 수 있습니다. ",
       "url": "product/hongokjihwa-0001.html",
       "image": "images/hongokjihwa0001/홍옥지화_0001_01.jpg"
+    },
+    {
+      "id": "gyeonghongseokgok-0001",
+      "name": "경홍석곡 0001",
+      "model": "0001",
+      "category": "석곡",
+      "traits": [
+        "무지잎",
+        "소형",
+        "매판화",
+        "홍화",
+        "향기",
+        "6cm 포트"
+      ],
+      "public_code": "CSFART경홍석곡_0001",
+      "price": "6,000원",
+      "description": "무지잎의 소형 석곡. 둔글둔글한 매판형 짙은 홍화색 꽃과 향기, 6cm 포트 식재.",
+      "url": "product/gyeonghongseokgok-0001.html",
+      "image": "images/gyeonghongseokgok0001/actual_01.jpg"
     }
   ]
 }
