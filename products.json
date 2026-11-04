@@ -2,7 +2,7 @@
   "schema_version": 1,
   "created_kst": "2026-10-30T09:32:24.376756+09:00",
   "catalog_commit": "e525f2f6133fd5d21896bc57e6013a2dca5f101d",
-  "count": 51,
+  "count": 52,
   "products": [
     {
       "id": "hwayeong-0001",
@@ -799,6 +799,22 @@
       "description": "무지잎의 소형 석곡. 둔글둔글한 매판형 짙은 홍화색 꽃과 향기, 6cm 포트 식재.",
       "url": "product/gyeonghongseokgok-0001.html",
       "image": "images/gyeonghongseokgok0001/actual_01.jpg"
+    },
+    {
+      "id": "sobaek-1104",
+      "name": "소백 1104",
+      "model": "1104",
+      "category": "복륜",
+      "traits": [
+        "복륜",
+        "백복륜",
+        "입엽"
+      ],
+      "public_code": "CSFART소백_1104",
+      "price": "100,000원",
+      "description": "소백 1104. 녹색 잎과 유백색 복륜의 맑고 산뜻한 대비, 노수엽이 섞인 입엽과 단정한 중형종 수형을 감상하세요.",
+      "url": "product/sobaek-1104.html",
+      "image": "images/sobaek1104/detail_01.jpg"
     }
   ]
 }
