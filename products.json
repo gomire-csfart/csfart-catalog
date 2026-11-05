@@ -29,7 +29,7 @@
       "id": "chwihwajeon-0001",
       "name": "취화전 0001 · 두엽 희엽 역엽 풍란",
       "model": "0001",
-      "category": "화물",
+      "category": "입문·기타란",
       "traits": [
         "두엽",
         "희엽",
@@ -415,7 +415,8 @@
       "price": "200,000원",
       "description": "두터운 환엽형 두엽 · 황색 무늬 · 라사지 · 파형 붙음매 황금빛 무늬가 돋보이는 무쌍금 무쌍금 은 홍공작과 정지송을 교배해 탄생한 무쌍환 계통의 무늬종입니다. 두터운 환엽형 두엽과 화려한 노란빛 잎의 대비가 매력입니다. 무쌍금 1024 는 상단 잎에 넓게 퍼진 밝은 황색 발색과 아래 잎에서 어우러지는 녹색 무늬가 인상적입니다. 짧고 두툰한 잎이 층층이 배열되어 작은 자태에 존재감을 더합니다. 잎 표면에 은은한 미세한 라사지 의 결이 느껴지며, 잎과 축이 만나는 부분은 부드러운 파형 붙음매 의 ",
       "url": "product/mussanggum-1024.html",
-      "image": "images/mussanggum1024/CSFART무쌍금_1024_01.jpg"
+      "image": "images/mussanggum1024/CSFART무쌍금_1024_01.jpg",
+      "availability": "sold_out"
     },
     {
       "id": "baekgyeol-0001",
@@ -629,7 +630,7 @@
       "id": "noesan-0001",
       "name": "뇌산(雷山) 0001",
       "model": "0001",
-      "category": "화물",
+      "category": "입문·기타란",
       "traits": [],
       "public_code": "",
       "price": "",
