@@ -2,7 +2,7 @@
   "schema_version": 1,
   "created_kst": "2026-10-30T09:32:24.376756+09:00",
   "catalog_commit": "e525f2f6133fd5d21896bc57e6013a2dca5f101d",
-  "count": 52,
+  "count": 53,
   "products": [
     {
       "id": "hwayeong-0001",
@@ -815,6 +815,22 @@
       "description": "소백 1104. 녹색 잎과 유백색 복륜의 맑고 산뜻한 대비, 노수엽이 섞인 입엽과 단정한 중형종 수형을 감상하세요.",
       "url": "product/sobaek-1104.html",
       "image": "images/sobaek1104/detail_01.jpg"
+    },
+    {
+      "id": "eumpung-1104",
+      "name": "음풍 1104",
+      "model": "1104",
+      "category": "호·중반",
+      "traits": [
+        "묵의 선",
+        "황호의 기미",
+        "유연한 희엽"
+      ],
+      "public_code": "CSFART음풍_1104",
+      "price": "160,000원",
+      "description": "음풍 1104 풍란. 잎을 따라 흐르는 묵의 선, 일부 잎에 보이는 황호의 기미, 폭이 넓고 유연한 희엽. 18장 실제 상품 사진과 설명. 판매가 160,000원.",
+      "url": "product/eumpung-1104.html",
+      "image": "images/eumpung1104/detail_01.jpg"
     }
   ]
 }
