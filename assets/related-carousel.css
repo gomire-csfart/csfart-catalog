@@ -1,0 +1,16 @@
+.related-carousel { margin: 3.5rem auto 2rem; max-width: 1120px; padding: 1.5rem; background: #F7F5EE; border-top: 1px solid #D9E4D5; color: #234238; }
+.related-carousel__top { display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin-bottom: 1rem; }
+.related-carousel__title { margin: 0; font-size: clamp(1.25rem, 2vw, 1.75rem); letter-spacing: -.02em; }
+.related-carousel__controls { display: flex; gap: .5rem; }
+.related-carousel__button { appearance: none; width: 2.5rem; height: 2.5rem; border: 1px solid #BEA479; border-radius: 50%; background: #FFFEFA; color: #234238; cursor: pointer; font-size: 1.25rem; }
+.related-carousel__button:hover, .related-carousel__button:focus-visible { background: #234238; color: #FFFEFA; outline: 3px solid #BEA479; outline-offset: 2px; }
+.related-carousel__viewport { overflow: hidden; }
+.related-carousel__cards { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+.related-card { display: block; overflow: hidden; background: #FFFEFA; border: 1px solid #D9E4D5; color: inherit; text-decoration: none; min-width: 0; }
+.related-card:hover, .related-card:focus-visible { outline: 3px solid #BEA479; outline-offset: 2px; }
+.related-card__image { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; background: #D9E4D5; }
+.related-card__body { padding: .9rem 1rem 1rem; }
+.related-card__name { margin: 0; font-size: 1rem; line-height: 1.45; }
+.related-card__price { display: block; margin-top: .5rem; color: #234238; font-weight: 700; }
+@media (max-width: 430px) { .related-carousel { padding: 1rem; } .related-carousel__top { flex-wrap: wrap; } .related-carousel__title { flex: 0 0 100%; word-break: keep-all; } .related-carousel__controls { margin-left: auto; } .related-carousel__cards { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .75rem; } .related-card__body { padding: .75rem; } }
+@media (prefers-reduced-motion: reduce) { .related-carousel * { scroll-behavior: auto !important; } }
