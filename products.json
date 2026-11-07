@@ -2,7 +2,7 @@
   "schema_version": 1,
   "created_kst": "2026-10-30T09:32:24.376756+09:00",
   "catalog_commit": "e525f2f6133fd5d21896bc57e6013a2dca5f101d",
-  "count": 54,
+  "count": 55,
   "products": [
     {
       "id": "hwayeong-0001",
@@ -848,6 +848,18 @@
       "description": "춘광 1104 풍란. 연녹색 복륜 무늬와 유연한 희엽이 어우러지는 단정한 자태. 실사 9장과 설명 9장의 V4 혼합 18장, 판매가 80,000원.",
       "url": "product/chungwang-1104.html",
       "image": "images/chungwang1104/detail_01.jpg"
+    },
+    {
+      "id": "naewi-1107",
+      "name": "내위 1107 · 5촉",
+      "model": "1107",
+      "category": "복륜",
+      "traits": [],
+      "public_code": "",
+      "price": "190,000원",
+      "description": "내위(匂威) 1107 풍란. 설백 복륜, 입엽성 희엽, 니축·니근·월형 붙음매. 5촉. 할인가 190,000원. 실사와 상세 20장.",
+      "url": "product/naewi-1107.html",
+      "image": "images/naewi1107/detail_04.jpg"
     }
   ]
 }
