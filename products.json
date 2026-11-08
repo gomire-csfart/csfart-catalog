@@ -2,7 +2,7 @@
   "schema_version": 1,
   "created_kst": "2026-10-30T09:32:24.376756+09:00",
   "catalog_commit": "e525f2f6133fd5d21896bc57e6013a2dca5f101d",
-  "count": 55,
+  "count": 56,
   "products": [
     {
       "id": "hwayeong-0001",
@@ -862,6 +862,22 @@
       "description": "내위(匂威) 1107 풍란. 설백 복륜, 입엽성 희엽, 니축·니근·월형 붙음매. 5촉. 할인가 190,000원. 실사와 상세 20장.",
       "url": "product/naewi-1107.html",
       "image": "images/naewi1107/detail_04.jpg"
+    },
+    {
+      "id": "chwibo-1108",
+      "name": "취보 1108 · 신아 포함 5촉",
+      "model": "1108",
+      "category": "복륜",
+      "traits": [
+        "극황대복륜",
+        "희엽",
+        "무늬 안정성"
+      ],
+      "public_code": "CSFART취보_1108",
+      "price": "230,000원",
+      "description": "취보(翠寶) 1108. 무늬의 안정성이 매우 좋은 후천성 극황대복륜 풍란. 아마미계의 넓고 두터운 희엽, 신아 포함 5촉. 할인 판매가 230,000원. 실사와 상세 이미지 20장.",
+      "url": "product/chwibo-1108.html",
+      "image": "images/chwibo1108/detail_01.jpg"
     }
   ]
 }
