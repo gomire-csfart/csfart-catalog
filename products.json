@@ -2,7 +2,7 @@
   "schema_version": 1,
   "created_kst": "2026-10-30T09:32:24.376756+09:00",
   "catalog_commit": "e525f2f6133fd5d21896bc57e6013a2dca5f101d",
-  "count": 56,
+  "count": 57,
   "products": [
     {
       "id": "hwayeong-0001",
@@ -878,6 +878,22 @@
       "description": "취보(翠寶) 1108. 무늬의 안정성이 매우 좋은 후천성 극황대복륜 풍란. 아마미계의 넓고 두터운 희엽, 신아 포함 5촉. 할인 판매가 230,000원. 실사와 상세 이미지 20장.",
       "url": "product/chwibo-1108.html",
       "image": "images/chwibo1108/detail_01.jpg"
+    },
+    {
+      "id": "paljungui-0001",
+      "name": "팔중의(八重衣) 0001",
+      "model": "0001",
+      "category": "입문·기타란",
+      "traits": [
+        "흰색 산반 줄무늬",
+        "희엽",
+        "소~중형종"
+      ],
+      "public_code": "CSFART팔중의_0001",
+      "price": "15,000원",
+      "description": "팔중의(八重衣) 0001 풍란. 흰색의 산반 줄무늬(白色 散斑縞), 부드러운 희엽, 소~중형종, 니축·니근과 월형 붙음매. 판매가 15,000원.",
+      "url": "product/paljungui-0001.html",
+      "image": "images/paljungui0001/actual_01.jpg"
     }
   ]
 }
