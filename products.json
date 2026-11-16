@@ -2,7 +2,7 @@
   "schema_version": 1,
   "created_kst": "2026-10-30T09:32:24.376756+09:00",
   "catalog_commit": "e525f2f6133fd5d21896bc57e6013a2dca5f101d",
-  "count": 57,
+  "count": 58,
   "products": [
     {
       "id": "hwayeong-0001",
@@ -894,6 +894,25 @@
       "description": "팔중의(八重衣) 0001 풍란. 흰색의 산반 줄무늬(白色 散斑縞), 부드러운 희엽, 소~중형종, 니축·니근과 월형 붙음매. 판매가 15,000원.",
       "url": "product/paljungui-0001.html",
       "image": "images/paljungui0001/actual_01.jpg"
+    },
+    {
+      "id": "haemosu-1101",
+      "name": "해모수(解慕漱) 1101 · 황색 중투",
+      "model": "1101",
+      "category": "호반",
+      "traits": [
+        "황색 중투",
+        "중반",
+        "입엽성 희엽",
+        "노수엽",
+        "깊은 엽골",
+        "루비근"
+      ],
+      "public_code": "CSFART해모수_1101",
+      "price": "150,000원",
+      "description": "해모수(解慕漱) 1101 제98호 품종. 새잎의 서반에서 녹색 가장자리로 변화하는 황색 중투, 노수엽을 섞는 입엽성 희엽과 깊은 엽골, 분홍빛 루비근을 감상하세요. 실제 판매 개체 사진과 V4 혼합 20장 및 영상.",
+      "url": "product/haemosu-1101.html",
+      "image": "images/haemosu1101/detail_01.jpg"
     }
   ]
 }
