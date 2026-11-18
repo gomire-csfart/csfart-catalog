@@ -2,7 +2,7 @@
   "schema_version": 1,
   "created_kst": "2026-10-30T09:32:24.376756+09:00",
   "catalog_commit": "e525f2f6133fd5d21896bc57e6013a2dca5f101d",
-  "count": 58,
+  "count": 59,
   "products": [
     {
       "id": "hwayeong-0001",
@@ -913,6 +913,24 @@
       "description": "해모수(解慕漱) 1101 제98호 품종. 새잎의 서반에서 녹색 가장자리로 변화하는 황색 중투, 노수엽을 섞는 입엽성 희엽과 깊은 엽골, 분홍빛 루비근을 감상하세요. 실제 판매 개체 사진과 V4 혼합 20장 및 영상.",
       "url": "product/haemosu-1101.html",
       "image": "images/haemosu1101/detail_01.jpg"
+    },
+    {
+      "id": "myohyang-1101",
+      "name": "묘향(妙香) 1101 · 복합 예 풍란",
+      "model": "1101",
+      "category": "복륜",
+      "traits": [
+        "복륜",
+        "호복륜",
+        "송화색 서예",
+        "입엽",
+        "희엽"
+      ],
+      "public_code": "",
+      "price": "140,000원",
+      "description": "묘향(妙香) 1101 풍란. 송화색 서예와 호복륜의 복합 예, 녹색과 황록색 대비, 중형종 입엽의 선. 판매가 140,000원. 실사와 설명 19장 및 사진영상.",
+      "url": "product/myohyang-1101.html",
+      "image": "images/myohyang1101/detail_01.jpg"
     }
   ]
 }
