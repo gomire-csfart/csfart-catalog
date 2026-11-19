@@ -170,22 +170,22 @@
       "image": "images/okgeum/actual_01.jpg"
     },
     {
-      "id": "taebaekryeong-1023",
-      "name": "태백령(太白嶺) 1023",
-      "model": "1023",
+      "id": "taebaekryeong-1102",
+      "name": "태백령(太白嶺) 1102",
+      "model": "1102",
       "category": "복륜",
       "traits": [
-        "복륜",
-        "백복륜",
-        "호",
-        "희엽"
+        "설백 복륜",
+        "대복륜",
+        "니축",
+        "니근",
+        "월형"
       ],
-      "public_code": "CSFART태백령_1023",
-      "price": "200,000원",
-      "description": "아마미계 설백 대복륜 · 정갈한 잎의 자태 설백 대복륜이 돋보이는 태백령 태백령(太白嶺) 은 아마미계 실생에서 출현한 선천성 백복륜 풍란으로, 2013년 6월 대한민국풍란연합회 제66호 로 등록된 품종입니다. 짙은 녹색 잎 바탕과 잎 가장자리를 따라 흐르는 설백(雪白)의 대복륜 이 선명한 대비를 이룹니다. 잎은 곧게 솟다가 부드럽게 휘며 정갈한 분위기를 만들어 냅니다. 태백령 1023 은 길게 뻗은 잎에 맑은 백색 복륜이 조화를 이루는 개체입니다. 여러 방향에서 아름다운 잎선과 무늬를  품종 태백",
-      "url": "product/taebaekryeong-1023.html",
-      "image": "images/taebaekryeong1023/CSFART태백령_1023_01.jpg",
-      "availability": "sold_out"
+      "public_code": "",
+      "price": "190,000원",
+      "description": "태백령(太白嶺) 1102 풍란. 2013년 대한민국풍란연합회 등록품종 제66호. 설백 대복륜, 니축·니근·월형 붙음매의 품종 특징. 실사와 상세를 교차 구성한 17장.",
+      "url": "product/taebaekryeong-1102.html",
+      "image": "images/taebaekryeong1102/hero_full.jpg"
     },
     {
       "id": "yungdan-0001",
