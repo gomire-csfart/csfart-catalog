@@ -2,8 +2,26 @@
   "schema_version": 1,
   "created_kst": "2026-10-30T09:32:24.376756+09:00",
   "catalog_commit": "e525f2f6133fd5d21896bc57e6013a2dca5f101d",
-  "count": 59,
+  "count": 60,
   "products": [
+    {
+      "id": "yangguihui-1101",
+      "name": "양귀희(楊貴姬) 1101",
+      "model": "1101",
+      "category": "호·중반",
+      "traits": [
+        "백황호",
+        "호",
+        "청축",
+        "청근",
+        "월형"
+      ],
+      "public_code": "CSFART양귀희_1101",
+      "price": "120,000원",
+      "description": "양귀희 1101 풍란. 백황호와 넓고 두꺼운 잎이 돋보이는 청축 호물 품종. 청근과 월형 붙음매의 품종 특징. 120,000원.",
+      "url": "product/yangguihui-1101.html",
+      "image": "images/yangguihui1101/hero_full.jpg"
+    },
     {
       "id": "hwayeong-0001",
       "name": "화영(火影) 0001 · 오색 호반 루비근 풍란",
