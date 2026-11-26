@@ -1,0 +1,9 @@
+/* CSFART compact purchase action row */
+.csfart-purchase-row{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:6px!important;width:100%;min-width:0;max-width:100%;box-sizing:border-box;grid-column:1/-1;flex:1 1 100%;align-items:stretch}
+.csfart-purchase-row>a{box-sizing:border-box!important;display:flex!important;align-items:center!important;justify-content:center!important;text-align:center!important;width:100%!important;min-width:0!important;max-width:100%!important;min-height:44px!important;height:auto!important;margin:0!important;padding:8px 3px!important;font-size:clamp(12px,1.9vw,15px)!important;font-weight:700!important;line-height:1.2!important;white-space:nowrap!important;letter-spacing:-.03em!important;text-decoration:none!important;color:#fff!important;border:0!important;border-radius:8px!important}
+.csfart-purchase-row>a[data-csfart-action="naver"]{background:#17613c!important}
+.csfart-purchase-row>a[data-csfart-action="coupang"]{background:#574031!important}
+.csfart-purchase-row>a[data-csfart-action="talktalk"]{background:#fff!important;color:#17613c!important;border:1px solid #17613c!important;font-weight:600!important}
+.csfart-purchase-row>a:focus-visible{outline:2px solid #222;outline-offset:2px}
+.sticky-buy>.csfart-purchase-row{flex:1 1 0;min-width:0;width:auto}
+@media(max-width:420px){.csfart-purchase-row{gap:4px!important}.csfart-purchase-row>a{padding:7px 2px!important;font-size:12px!important}}
