@@ -80,6 +80,7 @@ function boot(){
   toggle.setAttribute("aria-expanded",String(isOpen));
   if(isOpen){const inp=form&&form.querySelector("input");if(inp)inp.focus();}
  });}
+ if(form){const i=form.querySelector("input");if(i)i.addEventListener("input",()=>i.setCustomValidity(""));}
  if(form)form.addEventListener("submit",ev=>{
   const i=form.querySelector("input");
   if(!i||!i.value.trim()){ev.preventDefault();if(i)i.focus();return;}
