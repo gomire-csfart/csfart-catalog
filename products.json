@@ -2,8 +2,24 @@
   "schema_version": 1,
   "created_kst": "2026-10-30T09:32:24.376756+09:00",
   "catalog_commit": "e525f2f6133fd5d21896bc57e6013a2dca5f101d",
-  "count": 61,
+  "count": 62,
   "products": [
+    {
+      "id": "geumgwangseong-0001",
+      "name": "금광성(金光星) 0001",
+      "model": "0001",
+      "category": "특예",
+      "traits": [
+        "투성",
+        "입엽",
+        "죽절근"
+      ],
+      "public_code": "",
+      "price": "20,000원",
+      "description": "날렵한 입엽과 잎 속에 숨은 투성이 매력인 소형 풍란 금광성입니다. 니축·죽절근 형태의 니근·월형 붙음매를 지닌 품종입니다. 검은 포트묘로 보내드립니다.",
+      "url": "product/geumgwangseong-0001.html",
+      "image": "images/geumgwangseong0001/photo_01.jpg"
+    },
     {
       "id": "hwayi-0001",
       "name": "화의(花衣) 0001",
