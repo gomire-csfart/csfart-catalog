@@ -2,8 +2,24 @@
   "schema_version": 1,
   "created_kst": "2026-10-30T09:32:24.376756+09:00",
   "catalog_commit": "e525f2f6133fd5d21896bc57e6013a2dca5f101d",
-  "count": 62,
+  "count": 63,
   "products": [
+    {
+      "id": "nadogeum",
+      "name": "나도금",
+      "model": "",
+      "category": "입문·기타란",
+      "traits": [
+        "나도풍란",
+        "황금빛 무늬",
+        "넓은 잎"
+      ],
+      "public_code": "",
+      "price": "30,000원",
+      "description": "넓고 두툼한 잎에 황금빛과 녹색 무늬가 어우러지는 나도금입니다. 단정한 잎의 자태와 굵은 뿌리를 감상해 보세요.",
+      "url": "product/nadogeum.html",
+      "image": "images/nadogeum/photo_01.jpg"
+    },
     {
       "id": "geumgwangseong-0001",
       "name": "금광성(金光星) 0001",
