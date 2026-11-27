@@ -2,8 +2,24 @@
   "schema_version": 1,
   "created_kst": "2026-10-30T09:32:24.376756+09:00",
   "catalog_commit": "e525f2f6133fd5d21896bc57e6013a2dca5f101d",
-  "count": 63,
+  "count": 64,
   "products": [
+    {
+      "id": "heukmodan-1101",
+      "name": "흑모단(黑牡丹) 1101",
+      "model": "1101",
+      "category": "특예",
+      "traits": [
+        "묵",
+        "어린 종자목",
+        "예의 변화"
+      ],
+      "public_code": "",
+      "price": "300,000원",
+      "description": "흑모단 1101 — 기대되는 종자목. 깊은 녹색 잎에 깃든 묵과 단정한 잎의 자태가 매력인 어린 부귀란입니다. 흑모단에서 금모단이 나오기도 합니다. 새로운 잎과 예의 변화를 지켜보는 즐거움을 만나보세요.",
+      "url": "product/heukmodan-1101.html",
+      "image": "images/heukmodan1101/photo_01.jpg"
+    },
     {
       "id": "nadogeum",
       "name": "나도금",
